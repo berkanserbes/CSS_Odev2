@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+footer {
+    height: 964 px;
+    width: 147.2 px;
+    
+}
+.search-bg {
+    background-color: #EEEEEE;
+    width:867.2px ;
+    margin-bottom: 4px;
+}
+
+#one {
+    height: 78px;
+    width: 318.64px;
+    background-color: #7EE5DA;
+    float: left;
+    line-height: 0;
+}
+
+#two {
+    height: 78px;
+    width: 179.25px;    
+    background-color: #70CCC2;
+    float: left;
+    line-height: 0;
+    margin: 0 4px;
+}
+
+#three {
+    height: 78px;
+    width: 361.31px;    
+    background-color: #62B3AA;
+    float: left;    
+}
+
+.main {
+    position: relative;
+    left: 20%;
+}
+#email,#subscribe {
+    position: relative;
+    bottom: 35px;
+}
